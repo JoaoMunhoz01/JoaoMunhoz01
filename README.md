@@ -1,7 +1,7 @@
 ## Olá, meu nome é João 🎮🕹
 #Tenho 20 Anos
 
-#Estou no 7 semestre de Sistemas de Informação - UFMS
+#Estou no 8 semestre de Sistemas de Informação - UFMS
 ##
 <div align="center">
   <a href="https://github.com/JoaoMunhoz01">
