@@ -1,7 +1,6 @@
-## Olá, meu nome é João 🎮🕹
-#Tenho 20 Anos
+## Olá, meu nome é João Victor Munhóz 🎮🕹
 
-#Estou no 8 semestre de Sistemas de Informação - UFMS
+#Graduado em Sistemas de Informação pela UFMS - Universidade Federal Mato Grosso Do Sul
 ##
 <div align="center">
   <a href="https://github.com/JoaoMunhoz01">
